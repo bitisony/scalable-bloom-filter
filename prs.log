@@ -312,3 +312,14 @@
   "deletions": 2,
   "changed_files": 2
 }
+{
+  "message": "Validation Failed",
+  "errors": [
+    {
+      "resource": "PullRequest",
+      "code": "custom",
+      "message": "No commits between btnguyen2k:master and andrelaszlo:master"
+    }
+  ],
+  "documentation_url": "https://developer.github.com/v3/pulls/#create-a-pull-request"
+}
