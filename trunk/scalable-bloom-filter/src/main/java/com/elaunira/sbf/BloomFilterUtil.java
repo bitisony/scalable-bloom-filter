@@ -18,7 +18,7 @@ public class BloomFilterUtil {
 	 * using only one hash function. Indeed, we can derive as many hash values
 	 * as you need as a linear combination of two without compromising the
 	 * performance of a Bloom filter. This is explained in the paper entitled <a
-	 * href="http://www.eecs.harvard.edu/~kirsch/pubs/bbbf/esa06.pdf">Less
+	 * href="https://www.eecs.harvard.edu/~michaelm/postscripts/tr-02-05.pdf">Less
 	 * Hashing, Same Performance: Building a Better Bloom Filter</a> by <em>Adam
 	 * Kirsch</em> and <em>Michael Mitzenmacher</em>.
 	 * <p>
